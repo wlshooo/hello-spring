@@ -57,6 +57,7 @@ public class MemoryMemberRepositoryTest {
 
         assertThat(result.size()).isEqualTo(2);
     }
+    //20230205 test
 
 
 }
